@@ -1,0 +1,29 @@
+﻿@Harjoitus 1_HostAddress = https://localhost:7046
+@Harjoitus1_HostAddress = https://localhost:7046
+
+Post {{Harjoitus1_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name":"walk dog",
+  "isComplete":true
+}
+
+###
+
+GET {{Harjoitus1_HostAddress}}/todoitems
+
+###
+
+PUT {{Harjoitus1_HostAddress}}/todoitems/1
+Content-Type: application/json
+
+{
+  "name": "feed fish",
+  "isComplete": false
+}
+###
+
+DELETE {{Harjoitus1_HostAddress}}/todoitems/1
+
+###
