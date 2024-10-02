@@ -1,0 +1,24 @@
+﻿@Harjoitus2_HostAddress = https://localhost:7256
+
+POST {{Harjoitus2_HostAddress}}/quests
+Content-Type: applications/json
+{
+    "Name":"Tuhoa rotat",
+    "Description":"Tapa 3 rottaa ja tuo nahat minulle",
+    "Reward":50
+}
+
+{
+    "Name":"Etsi viljo",
+    "Description":"Onkos viljo näkyny?",
+    "Reward":100
+}
+
+###
+GET {{Harjoitus2_HostAddress}}/quests
+
+###
+
+GET {{Harjoitus2_HostAddress}}/quests/{id}
+
+###
