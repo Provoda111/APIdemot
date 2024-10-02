@@ -1,4 +1,4 @@
-﻿namespace Harjoitus_1
+﻿namespace Harjoitus1
 {
     public class ToDo
     {

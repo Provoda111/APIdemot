@@ -1,5 +1,4 @@
-﻿@Harjoitus 1_HostAddress = https://localhost:7046
-@Harjoitus1_HostAddress = https://localhost:7046
+﻿@Harjoitus1_HostAddress = https://localhost:7046
 
 Post {{Harjoitus1_HostAddress}}/todoitems
 Content-Type: application/json

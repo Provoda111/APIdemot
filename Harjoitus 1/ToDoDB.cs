@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Harjoitus_1
+namespace Harjoitus1
 {
     class ToDoDB : DbContext
     {
