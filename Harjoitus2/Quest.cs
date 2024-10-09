@@ -2,10 +2,10 @@
 {
     public class Quest
     {
-        public int Id { get; set; }
-        public string? Name { get; set; }
-        public string? Description { get; set; }
-        public int Reward { get; set; }
+        public int Id { set; get; }
+        public string Name { set; get; }
+        public string Description { set; get; }
+        public int Reward { set; get; }
 
     }
 }

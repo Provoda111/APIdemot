@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<QuestDb>(opt => opt.UseInMemoryDatabase("QuestList"));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 var app = builder.Build();
-var questItems = app.MapGroup("/quests");
+var quests = app.MapGroup("/quests");
 
 /*quests.MapGet("/", GetAllQuests);
 quests.MapGet("/{id}", GetQuest);
@@ -51,5 +51,5 @@ static async Task<IResult> CreateQuest(Quest quest, QuestDb db)
     db.Quests.Add(quest);
     await db.SaveChangesAsync();
 
-    return TypedResults.Created($"/questitems/{quest.Id}", quest);
+    return TypedResults.Created($"/quests/{quest.Id}", quest);
 }*/
