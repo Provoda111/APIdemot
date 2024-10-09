@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus1.csproj|c:\\users\\s2200768\\onedrive - business college helsinki\\documents\\koulu\\2024\\pelikeh\\tietovarastot\\apidemot\\apidemot\\harjoitus 1\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus1.csproj|solutionrelative:todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus 1.csproj|c:\\users\\s2200768\\onedrive - business college helsinki\\documents\\koulu\\2024\\pelikeh\\tietovarastot\\apidemot\\apidemot\\harjoitus 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus 1.csproj|c:\\users\\s2200768\\onedrive - business college helsinki\\documents\\koulu\\2024\\pelikeh\\tietovarastot\\apidemot\\apidemot\\harjoitus 1\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus 1.csproj|solutionrelative:todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus 1.csproj|c:\\users\\s2200768\\onedrive - business college helsinki\\documents\\koulu\\2024\\pelikeh\\tietovarastot\\apidemot\\apidemot\\harjoitus 1\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus 1.csproj|solutionrelative:tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus1.csproj|c:\\users\\s2200768\\onedrive - business college helsinki\\documents\\koulu\\2024\\pelikeh\\tietovarastot\\apidemot\\apidemot\\harjoitus 1\\harjoitus1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{86E1C960-F6B0-49B9-B09E-2682F12126C6}|Harjoitus1.csproj|solutionrelative:harjoitus1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\TodoItemDTO.cs",
+              "RelativeDocumentMoniker": "TodoItemDTO.cs",
+              "ToolTip": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\TodoItemDTO.cs",
+              "RelativeToolTip": "TodoItemDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:14:18.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Harjoitus1.http",
+              "DocumentMoniker": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\Harjoitus1.http",
+              "RelativeDocumentMoniker": "Harjoitus1.http",
+              "ToolTip": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\Harjoitus1.http",
+              "RelativeToolTip": "Harjoitus1.http",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-25T09:42:13.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:42:12.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\ToDo.cs",
+              "RelativeDocumentMoniker": "ToDo.cs",
+              "ToolTip": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\ToDo.cs",
+              "RelativeToolTip": "ToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:42:11.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoDB.cs",
+              "DocumentMoniker": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\ToDoDB.cs",
+              "RelativeDocumentMoniker": "ToDoDB.cs",
+              "ToolTip": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus 1\\ToDoDB.cs",
+              "RelativeToolTip": "ToDoDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:42:10.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

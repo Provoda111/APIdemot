@@ -1,0 +1,33 @@
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\appsettings.json
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Harjoitus 1.exe
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Harjoitus 1.deps.json
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Harjoitus 1.runtimeconfig.json
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Harjoitus 1.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Harjoitus 1.pdb
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.AssemblyInfoInputs.cache
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.AssemblyInfo.cs
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.csproj.CoreCompileInputs.cache
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.sourcelink.json
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\staticwebassets\msbuild.Harjoitus 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Harjoitus 1.props
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Harjoitus 1.props
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Harjoitus 1.props
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\scopedcss\bundle\Harjoitus 1.styles.css
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\refint\Harjoitus 1.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.pdb
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.genruntimeconfig.cache
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\ref\Harjoitus 1.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitus 1.csproj.AssemblyReference.cache
+C:\Users\s2200768\OneDrive - Business College Helsinki\Documents\Koulu\2024\PELIKEH\Tietovarastot\APIdemot\APIdemot\Harjoitus 1\obj\Debug\net8.0\Harjoitu.2FF70903.Up2Date

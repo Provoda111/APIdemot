@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Harjoitus2.props" />
+</Project>
