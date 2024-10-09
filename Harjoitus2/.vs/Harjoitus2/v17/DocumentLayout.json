@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Harjoitus2.http",
               "ToolTip": "C:\\Users\\s2200768\\OneDrive - Business College Helsinki\\Documents\\Koulu\\2024\\PELIKEH\\Tietovarastot\\APIdemot\\APIdemot\\Harjoitus2\\Harjoitus2.http",
               "RelativeToolTip": "Harjoitus2.http",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowBQAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-10-02T09:34:45.665Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "QuestDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:12:14.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:12:14.534Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Quest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:08:52.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:08:52.018Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:06:05.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:06:05.963Z"
             }
           ]
         }
